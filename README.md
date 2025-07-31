@@ -55,11 +55,11 @@ Este projeto faz parte do meu processo de formação através do programa:
 ## 🔧 Como executar o projeto
 
 1. Clone este repositório:
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone [https://github.com/lsbonifazio/amigo-secreto-ONE]
 
 
 2. Acesse a pasta do projeto:
-cd amigo-secreto
+cd amigo-secreto-ONE
 
 
 3. Abra o arquivo `index.html` no navegador.
