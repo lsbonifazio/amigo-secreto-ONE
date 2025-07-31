@@ -85,7 +85,7 @@ Sinta-se à vontade para abrir issues ou pull requests com sugestões de melhori
 
 Me chamo **Letícia Schulz Bonifazio** e estou em transição de carreira para a área de tecnologia. Acredito no poder da educação e na capacidade de construir soluções que aproximem pessoas — e um sorteio de amigo secreto é um ótimo exemplo disso!
 
-📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/leticia-schulz-bonifazio)
+📫 Me encontre no [LinkedIn](www.linkedin.com/in/lsbonifazio)
 
 ---
 
