@@ -18,7 +18,7 @@ Este projeto faz parte do meu plano de estudos no **Programa Oracle Next Educati
 
 ## 📸 Demonstração
 
-![Imagem do projeto](./screenshot.png)  
+![Imagem do projeto](./screenshot-amigo-secreto.png)  
 *Interface amigável e colorida para deixar o sorteio mais divertido!*
 
 ---
